@@ -1,4 +1,4 @@
-package com.fleet.utilities;
+package com.B33_G8_translantik.utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
