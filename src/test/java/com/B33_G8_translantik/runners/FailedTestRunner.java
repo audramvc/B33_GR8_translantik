@@ -1,4 +1,4 @@
-package com.fleet.runners;
+package com.B33_G8_translantik.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
