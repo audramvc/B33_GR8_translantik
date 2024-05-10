@@ -1,11 +1,11 @@
-package com.B33_G8_translantik.step_definitions;
+package com.B33_GR8_translantik.step_definitions;
 
 
 
 
-import com.B33_G8_translantik.utilities.BrowserUtils;
-import com.B33_G8_translantik.utilities.ConfigurationReader;
-import com.B33_G8_translantik.utilities.Driver;
+import com.B33_GR8_translantik.utilities.BrowserUtils;
+import com.B33_GR8_translantik.utilities.ConfigurationReader;
+import com.B33_GR8_translantik.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
