@@ -1,10 +1,10 @@
-package com.B33_G8_translantik.pages;
+package com.B33_GR8_translantik.pages;
 
 
 
 
-import com.B33_G8_translantik.utilities.BrowserUtils;
-import com.B33_G8_translantik.utilities.Driver;
+import com.B33_GR8_translantik.utilities.BrowserUtils;
+import com.B33_GR8_translantik.utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
