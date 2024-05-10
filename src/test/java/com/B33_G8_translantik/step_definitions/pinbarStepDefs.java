@@ -6,12 +6,6 @@ import io.cucumber.java.en.When;
 
 public class pinbarStepDefs {
 
-    @Given("the user logged in as {string}")
-    public void the_user_logged_in_as(String string) {
-
-
-    }
-
     @When("User clicks the Learn how to use this space link")
     public void user_clicks_the_learn_how_to_use_this_space_link() {
         // Write code here that turns the phrase above into concrete actions
