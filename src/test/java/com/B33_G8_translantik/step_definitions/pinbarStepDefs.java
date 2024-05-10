@@ -1,4 +1,4 @@
-package com.B33_G8_translantik.step_definitions;
+package com.B33_GR8_translantik.step_definitions;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
