@@ -1,4 +1,4 @@
-package com.fleet.utilities;
+package com.B33_GR8_translantik.utilities;
 
 import org.junit.Assert;
 import org.openqa.selenium.*;

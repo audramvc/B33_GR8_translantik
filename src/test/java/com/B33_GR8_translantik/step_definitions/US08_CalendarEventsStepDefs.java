@@ -1,16 +1,10 @@
-package com.fleet.step_definitions;
+package com.B33_GR8_translantik.step_definitions;
 
-import com.fleet.pages.US08_CalendarEventsPage;
-import com.fleet.utilities.BrowserUtils;
-import com.fleet.utilities.Driver;
+import com.B33_GR8_translantik.pages.US08_CalendarEventsPage;
+import com.B33_GR8_translantik.utilities.BrowserUtils;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.time.Duration;
 
 public class US08_CalendarEventsStepDefs {
     US08_CalendarEventsPage calendarEventsPage = new US08_CalendarEventsPage();

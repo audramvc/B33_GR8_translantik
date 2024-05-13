@@ -1,4 +1,4 @@
-package com.fleet.runners;
+package com.B33_GR8_translantik.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -13,9 +13,9 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json"
         },
         features = "src/test/resources/features",
-        glue = "com/fleet/step_definitions",
+        glue = "com/B33_GR8_translantik/step_definitions",
         dryRun = false,
-        tags = "@CalendarEvents",
+        tags = "@MainModules",
         publish = true //generating a report with public link
 )
 public class CukesRunner {}

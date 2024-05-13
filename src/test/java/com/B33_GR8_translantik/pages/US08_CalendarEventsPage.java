@@ -1,8 +1,6 @@
-package com.fleet.pages;
+package com.B33_GR8_translantik.pages;
 
-import com.fleet.utilities.BrowserUtils;
-import com.fleet.utilities.Driver;
-import org.openqa.selenium.By;
+import com.B33_GR8_translantik.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

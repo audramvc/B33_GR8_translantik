@@ -1,4 +1,4 @@
-package com.fleet.utilities;
+package com.B33_GR8_translantik.utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -42,7 +42,7 @@ public class Driver {
                     //WebDriverManager.chromedriver().setup();
                     driverPool.set(new ChromeDriver());
                     driverPool.get().manage().window().maximize();
-                    driverPool.get().manage().timeouts().implicitlyWait(Duration.ofSeconds(200));
+                    driverPool.get().manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
                     break;
                 case "firefox":
                     //WebDriverManager.firefoxdriver().setup();
