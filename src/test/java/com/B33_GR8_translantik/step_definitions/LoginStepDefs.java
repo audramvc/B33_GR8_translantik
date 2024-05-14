@@ -1,7 +1,7 @@
-package com.B33_G8_translantik.step_definitions;
+package com.B33_GR8_translantik.step_definitions;
 
-import com.B33_G8_translantik.pages.LoginPage;
-import com.B33_G8_translantik.utilities.ConfigurationReader;
+import com.B33_GR8_translantik.pages.LoginPage;
+import com.B33_GR8_translantik.utilities.ConfigurationReader;
 import io.cucumber.java.en.Given;
 public class LoginStepDefs {
 

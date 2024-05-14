@@ -1,7 +1,7 @@
-package com.B33_G8_translantik.pages;
+package com.B33_GR8_translantik.pages;
 
 
-import com.B33_G8_translantik.utilities.Driver;
+import com.B33_GR8_translantik.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

@@ -1,4 +1,4 @@
-package com.B33_G8_translantik.utilities;
+package com.B33_GR8_translantik.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;
